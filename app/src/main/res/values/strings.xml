@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FetchTest</string>
+    <string name="loading_please_wait">Loading, Please Wait…</string>
+    <string name="no_items_found">No items found</string>
+    <string name="title">Fetch Rewards Coding Exercise</string>
+    <string name="retry">Retry</string>
+</resources>
